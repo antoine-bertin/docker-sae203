@@ -1,0 +1,16 @@
+/* -------------------------------------- */
+/*            Fichier css                 */
+/* -------------------------------------- */
+
+body {
+	
+}
+
+header > h1 {
+	font-size: 280%;
+	padding: 1%;
+	text-align: center;
+	border-width: 10px;
+	border-style: solid;
+	border-color: #2798F5;
+}
