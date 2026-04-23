@@ -3,7 +3,9 @@
 /* -------------------------------------- */
 
 body {
-	
+	font-family: arial, sans-serif; /* On met la police en arial */
+	margin: 0px;
+
 }
 
 header > h1 {
